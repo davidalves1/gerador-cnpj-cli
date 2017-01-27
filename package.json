@@ -1,6 +1,6 @@
 {
   "name": "gerador-cnpj-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A cli tool to generate a random valid CNPJ",
   "repository": "https://github.com/davidalves1/gerador-cnpj-cli",
   "main": "index.js",

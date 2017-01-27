@@ -1,10 +1,11 @@
 # gerador-cnpj-cli
 
-A cli tool to generate a random valid CNPJ
+A cli tool to generate a random valid CNPJ :tv:
+
+### Install
 
 ```shell
 $ npm install -g gerador-cnpj-cli
-
 ```
 
 ### Contribution
