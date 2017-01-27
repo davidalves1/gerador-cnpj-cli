@@ -69,7 +69,9 @@ function gerarCnpj() {
     // Exibe o cnpj no campo
     let cnpj = arr.join('');
 
-    console.log(cnpj);
+    console.log(`
+        CNPJ: ${cnpj} - copiado para área de transferência!
+    `);
 
     return cnpj;
 }
