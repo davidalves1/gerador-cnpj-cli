@@ -70,7 +70,7 @@ function gerarCnpj() {
     let cnpj = arr.join('');
 
     console.log(`
-        CNPJ: ${cnpj} - copiado para área de transferência!
+        CNPJ: ${cnpj} - copiado para sua área de transferência!
     `);
 
     return cnpj;
