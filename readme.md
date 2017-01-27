@@ -1,10 +1,10 @@
-# CLI Boilerplate
+# gerador-cnpj-cli
 
-A boilerplate for developing cli apps faster
+A random valid CNPJ generator
 
-### Contribuições
+### Contribution
 
-Create a [issue](https://github.com/davidalves1/clima-app/issues/new) or send a **pull request** and help us make this project better.
+Create a [issue](https://github.com/davidalves1/gerador-cnpj-cli/issues/new) or send a **pull request** and help us make this project better.
 
 ### License
 
