@@ -1,6 +1,6 @@
 # gerador-cnpj-cli
 
-A random valid CNPJ generator
+A cli tool to generate a random valid CNPJ
 
 ### Contribution
 
